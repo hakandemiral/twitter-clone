@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "a react based twitter clone app on nextjs",
   "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
   "repository": "git@github.com:hakandemiral/twitter-clone.git",
   "author": "Hakan Demiral <hakan.98@outlook.com>",
   "license": "MIT",
